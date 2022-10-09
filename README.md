@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Sun means missing a 21st tooth**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.facebook.com/chan.sunsak/">Facebook</a></h3>
 <p align="left">
 </p>
 
