@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Đông,Nguyễn Trần</h1>
-<h3 align="center">A frontend developer named Dong Sun</h3>
+<h3 align="center">A Java Developer</h3>
 
-- 🌱 I’m currently learning **Docker, Java**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [porfolio link](porfolio link)
 
